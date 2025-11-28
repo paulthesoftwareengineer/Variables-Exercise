@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "EybfwoFpk2o=",
+  "dgSpecHash": "G8DLB31hic4=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Harpe\\Desktop\\NET9\\Variables-Exercise\\VariablesExercise\\VariablesExercise.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\pault\\source\\repos\\Variables-Exercise\\VariablesExercise\\VariablesExercise.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pault\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\9.0.11\\microsoft.windowsdesktop.app.ref.9.0.11.nupkg.sha512",
+    "C:\\Users\\pault\\.nuget\\packages\\microsoft.netcore.app.ref\\9.0.11\\microsoft.netcore.app.ref.9.0.11.nupkg.sha512",
+    "C:\\Users\\pault\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\9.0.11\\microsoft.aspnetcore.app.ref.9.0.11.nupkg.sha512",
+    "C:\\Users\\pault\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\9.0.11\\microsoft.netcore.app.host.win-x64.9.0.11.nupkg.sha512"
+  ],
   "logs": []
 }
